@@ -1,0 +1,12 @@
+------------------------------------------------------------
+Client connecting to 10.0.5.3, UDP port 5011
+Sending 512 byte datagrams
+UDP buffer size: 2.00 MByte (default)
+------------------------------------------------------------
+[  3] local 10.0.6.3 port 44241 connected with 10.0.5.3 port 5011
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-30.0 sec   879 MBytes   246 Mbits/sec
+[  3]  0.0-30.0 sec   879 MBytes   246 Mbits/sec
+[  3] Sent 1800844 datagrams
+[  3] Server Report:
+[  3]  0.0-32.1 sec  56.0 MBytes  14.6 Mbits/sec  124.383 ms 1686183/1800842 (94%)

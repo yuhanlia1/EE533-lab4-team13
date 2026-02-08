@@ -1,0 +1,15 @@
+------------------------------------------------------------
+Server listening on UDP port 5010
+Receiving 1470 byte datagrams
+UDP buffer size: 2.00 MByte (default)
+------------------------------------------------------------
+[  3] local 10.0.4.3 port 5010 connected with 10.0.5.3 port 37340
+[  4] local 10.0.4.3 port 5010 connected with 10.0.6.3 port 51503
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  3]  0.0- 0.1 sec   474 KBytes  31.7 Mbits/sec   0.707 ms 1845/ 2794 (66%)
+[  3]  0.0- 0.1 sec  21 datagrams received out-of-order
+[  5] local 10.0.4.3 port 5010 connected with 10.0.7.3 port 39171
+[  4]  0.0- 1.1 sec  2.96 MBytes  23.5 Mbits/sec   0.113 ms 2895/ 8951 (32%)
+[  4]  0.0- 1.1 sec  1 datagrams received out-of-order
+[  5]  0.0- 2.1 sec  5.76 MBytes  22.6 Mbits/sec   2.850 ms 99184/110984 (89%)
+[  5]  0.0- 2.1 sec  2 datagrams received out-of-order

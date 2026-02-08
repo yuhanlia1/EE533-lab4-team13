@@ -1,0 +1,11 @@
+------------------------------------------------------------
+Server listening on TCP port 5013
+TCP window size:  128 KByte (default)
+------------------------------------------------------------
+[  4] local 10.0.7.3 port 5013 connected with 10.0.5.3 port 53654
+[  5] local 10.0.7.3 port 5013 connected with 10.0.6.3 port 55160
+[  6] local 10.0.7.3 port 5013 connected with 10.0.4.3 port 36709
+[ ID] Interval       Transfer     Bandwidth
+[  5]  0.0-10.0 sec   146 MBytes   122 Mbits/sec
+[  6]  0.0-10.0 sec  45.0 MBytes  37.7 Mbits/sec
+[  4]  0.0-10.4 sec   396 MBytes   318 Mbits/sec

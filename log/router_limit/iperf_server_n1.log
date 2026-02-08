@@ -1,0 +1,16 @@
+------------------------------------------------------------
+Server listening on UDP port 5011
+Receiving 1470 byte datagrams
+UDP buffer size: 2.00 MByte (default)
+------------------------------------------------------------
+[  3] local 10.0.5.3 port 5011 connected with 10.0.7.3 port 36074
+[  4] local 10.0.5.3 port 5011 connected with 10.0.4.3 port 46825
+[  5] local 10.0.5.3 port 5011 connected with 10.0.6.3 port 43366
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  3]  0.0- 1.0 sec  15.4 MBytes   124 Mbits/sec   0.571 ms 29953/61426 (49%)
+[  4]  0.0-30.0 sec   348 MBytes  97.4 Mbits/sec   0.052 ms 1089332/1802646 (60%)
+[  4]  0.0-30.0 sec   348 MBytes  97.4 Mbits/sec   0.180 ms 1090153/1803635 (60%)
+[  4]  0.0-30.0 sec  1 datagrams received out-of-order
+[  5]  0.0-30.0 sec   153 MBytes  42.8 Mbits/sec   0.744 ms 1460319/1773621 (82%)
+[  5]  0.0-30.1 sec   153 MBytes  42.7 Mbits/sec   1.182 ms 1463320/1777111 (82%)
+[  5]  0.0-30.1 sec  1 datagrams received out-of-order

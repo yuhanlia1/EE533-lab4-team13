@@ -1,0 +1,12 @@
+------------------------------------------------------------
+Server listening on TCP port 5011
+TCP window size:  128 KByte (default)
+------------------------------------------------------------
+[  4] local 10.0.5.3 port 5011 connected with 10.0.6.3 port 59083
+[  5] local 10.0.5.3 port 5011 connected with 10.0.7.3 port 40616
+[  6] local 10.0.5.3 port 5011 connected with 10.0.4.3 port 50041
+Waiting for server threads to complete. Interrupt again to force quit.
+[ ID] Interval       Transfer     Bandwidth
+[  6]  0.0- 0.9 sec  1.00 MBytes  9.13 Mbits/sec
+[  4]  0.0- 1.4 sec  4.38 MBytes  25.5 Mbits/sec
+[  5]  0.0- 1.6 sec  2.50 MBytes  13.3 Mbits/sec

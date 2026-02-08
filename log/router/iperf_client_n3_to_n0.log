@@ -1,0 +1,7 @@
+------------------------------------------------------------
+Client connecting to 10.0.4.3, TCP port 5010
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.7.3 port 42212 connected with 10.0.4.3 port 5010
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 2.1 sec  42.2 MBytes   166 Mbits/sec

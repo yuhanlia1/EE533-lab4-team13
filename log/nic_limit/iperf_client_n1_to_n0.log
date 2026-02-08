@@ -1,0 +1,12 @@
+------------------------------------------------------------
+Client connecting to 10.0.4.3, UDP port 5010
+Sending 512 byte datagrams
+UDP buffer size: 2.00 MByte (default)
+------------------------------------------------------------
+[  3] local 10.0.5.3 port 37340 connected with 10.0.4.3 port 5010
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 0.0 sec  1.36 MBytes   259 Mbits/sec
+[  3] Sent 2795 datagrams
+[  3] Server Report:
+[  3]  0.0- 0.1 sec   474 KBytes  31.7 Mbits/sec   0.706 ms 1845/ 2794 (66%)
+[  3]  0.0- 0.1 sec  21 datagrams received out-of-order
